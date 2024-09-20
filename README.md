@@ -7,8 +7,8 @@
 
 ### Create subdomain from # Route 53 service
 ![image](https://github.com/user-attachments/assets/b706090a-1345-40c2-a6ee-7cc0f03df93a)
- 
 
+## Connecting to EC2 instance
 NetflixMovieCatalog is a simple Flask-based API that provides information about TV shows and movies.
 
 ## Endpoints
