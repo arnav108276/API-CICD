@@ -40,3 +40,7 @@ NetflixMovieCatalog is a simple Flask-based API that provides information about 
 - `data/data_tv.json` - Data for TV shows
 - `data/data_movies.json` - Data for movies
 
+## Generate the .github/workflows/service-deploy.yaml file
+
+
+
