@@ -1,4 +1,13 @@
 # NetflixMovieCatalog
+### Create a EC2 instance
+![image](https://github.com/user-attachments/assets/72a45473-fb49-4656-8fa7-a888b6c6bcf7)
+
+### Edit inbound rules and open 8080 port
+![image](https://github.com/user-attachments/assets/eb74b576-636c-47b0-a88d-3635cb3b7679)
+
+### Create subdomain from # Route 53 service
+![image](https://github.com/user-attachments/assets/b706090a-1345-40c2-a6ee-7cc0f03df93a)
+ 
 
 NetflixMovieCatalog is a simple Flask-based API that provides information about TV shows and movies.
 
@@ -78,6 +87,7 @@ jobs:
 
 
 ## Generate the ssh keys from settings
+
 
 
 
